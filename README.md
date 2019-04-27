@@ -8,3 +8,7 @@ We have created a **artifacts**(executable file) for this project and location o
 Following are the few snapshots of our project :-
 ![main](main.png)
 ![faculty_image](faculty_image.png)
+![faculty](faculty.png)
+![student](student.png)
+![student_details](student_details.png)
+
